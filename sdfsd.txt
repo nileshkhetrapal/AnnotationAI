@@ -1,0 +1,15 @@
+The Code for the line:\n
+Example: Result: 3, Explicit, Negative, KeyWords: Economic Impact, Violence\n
+Example: Result: 1, Implicit, Positive, Keywords: Shut Down, Critical Access\n   
+1:Economy/Money/Finance/Trade/GDP\n   
+2:Trust/Stability/Security/Peace\n   
+3:Violence/Conflict/Protest\n   
+4:Unity/Cooperation/Alliance\n   
+5:Change/ Reform/Revolution \n 
+Explicit or Implicit\n
+Positive or Negative)\n
+\n
+{}
+\n
+The keywords should also be extracted\n
+Result:
