@@ -1,0 +1,419 @@
+Sentence,Annotation,Implicit/Explicit,Intent,Keyword1,Keyword2,Keyword3,Keyword4,Keyword5
+"Possessing 20% of the world\xe2\x80\x99s proven petroleum reserves, Saudi Arabia has long played the expected role of benefactor among its fellow Arab and Muslim countries",Unity/Cooperation/Alliance, Explicit, Positive, Petroleum Reserves,None,None,None,None
+ With a total aid budget of $3,Change/ Reform/Revolution, Explicit, Positive, Aid Budget,None,None,None,None
+"1 billion in 2009 , Saudi Arabia keeps one of the largest humanitarian aid funds in the world",Unity/Cooperation/Alliance, Explicit, Positive, Humanitarian Aid,None,None,None,None
+" Much of that aid went to hardship-struck Muslim nations, including Pakistan, Somalia and the Palestinians",Unity/Cooperation/Alliance, Explicit, Positive, Aid,None,None,None,None
+" But since the Arab Spring took root this year, Saudi Arabia has spread its largesse among its own citizens and Gulf Cooperation Council (GCC) neighbors \xe2\x80\x94 a large part of $150 billion worth of social welfare spending in the region since the unrest began, according to a new report by Merrill Lynch Bank of America",Unity/Cooperation/Alliance, Explicit, Positive, Arab Spring,None,None,None,None
+" Only days following the collapse of former Egyptian president Hosni Mubarak\xe2\x80\x99s regime in February, for instance, Saudi Arabia announced a social welfare package for its citizens worth $10",Change/ Reform/Revolution, Explicit, Positive, Collapse,None,None,None,None
+"7 billion, featuring pay raises for government employees, new jobs and loan forgiveness schemes",Change/ Reform/Revolution, Explicit, Positive, Pay Raises,None,None,None,None
+" By the end of the month, the handouts totaled $37 billion",Economy/Money/Finance/Trade/GDP, Explicit, Positive, Handouts,None,None,None,None
+" In March, the trend continued, as Saudi Arabia\xe2\x80\x99s King Abdullah heralded an additional $93 billion in social spending",Unity/Cooperation/Alliance, Explicit, Positive, Social Spending,None,None,None,None
+" Such generosity was no coincidence, noted the Merrill Lynch Bank of America report\xe2\x80\x99s authors",Unity/Cooperation/Alliance, Implicit, Positive, Generosity,None,None,None,None
+" \xe2\x80\x9cThe initial response of GCC policymakers [to the Arab revolt] has been to sharply increase current spending to accommodate social pressures and to pledge intra-regional fiscal transfers to less endowed members,\xe2\x80\x9d wrote Jean-Michel Saliba, Middle East and North Africa economist for the firm",Change/ Reform/Revolution, Explicit, Positive, GCC,None,None,None,None
+" In addition to Saudi Arabia, the United Arab Emirates (UAE) capital of Abu Dhabi put forward plans to spend nearly $2 billion to provide housing loans to Emiratis, while Qatar announced this month an $8 billion payout in wage, salary and benefits increases for all state and military personnel",Unity/Cooperation/Alliance, Explicit, Positive, Housing Loans,None,None,None,None
+ Oman and Bahrain have also indicated they would increase social spending by the billions this year,Unity/Cooperation/Alliance, Explicit, Positive, Social Spending,None,None,None,None
+" Aside from raises for state employees, the spending in these Gulf states will go toward infrastructure and social amenities, such as roads, schools and hospitals, and further subsidies on food, water and power consumption for citizens",Unity/Cooperation/Alliance, Explicit, Positive, Infrastructure,None,None,None,None
+" Saliba and his colleagues cautioned that the outsized spending did not address the long-term nature of the problems presented by the Arab Spring, such as high unemployment",Change/ Reform/Revolution, Implicit, Negative, Arab Spring,None,None,None,None
+" \xe2\x80\x9cThis [social spending] has averted potential disquiet over governance in most countries, though, over a longer-term horizon, economic reforms will be needed to buoy private sector growth and job creation",Change/ Reform/Revolution, Implicit, Positive, Social Spending,None,None,None,None
+\xe2\x80\x9d Saudi Arabia\xe2\x80\x99s generosity has been criticized as a means for the Arab world\xe2\x80\x99s most populous country to make political gains and spread influence,Change/ Reform/Revolution, Explicit, Negative, Generosity,None,None,None,None
+ The Merrill Lynch report also does not take into account the cost incurred by Saudi Arabia to send its troops into neighboring Bahrain to help quell a Shiite uprising there \xe2\x80\x94 another action to prevent revolt from reaching its own borders,Unity/Cooperation/Alliance, Explicit, Positive, Saudi Arabia,None,None,None,None
+" But in a recent analysis of the Arab Spring for Arabic Knowledge at Wharton, Wharton legal studies and business ethics professor Stuart Diamond said the spending by the Saudis demonstrated their understanding of negotiation",Unity/Cooperation/Alliance, Implicit, Positive, Spending,None,None,None,None
+" \xe2\x80\x9cThey understood that for many people, it was about Maslow\xe2\x80\x99s [hierarchy of] needs triangle: that is, basic life necessities such as food, shelter and health mattered most",Unity/Cooperation/Alliance, Implicit, Positive, Maslow's Hierarchy of Needs,None,None,None,None
+" So the stipends that the Saudi government gave helped to quell disturbances,\xe2\x80\x9d he noted",Unity/Cooperation/Alliance, Explicit, Positive, Saudi Government,None,None,None,None
+ Diamond added that Saudi spending bought not only continued loyalty from its citizens,Unity/Cooperation/Alliance, Implicit, Positive, Saudi Spending,None,None,None,None
+ \xe2\x80\x9cWhat they have mostly bought was time,Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" For now, the populace will be satisfied with their recent bonuses",Unity/Cooperation/Alliance, Implicit, Positive, Bonuses,None,None,None,None
+" But that does not amount to structural and sustainable change, the kind that would significantly improve everyone\xe2\x80\x99s quality of life on a continuing basis",Change/ Reform/Revolution, Implicit, Negative, Structural Change,None,None,None,None
+ The Saudi government should take this opportunity to include more people in decision-making and develop new industries that give more people a chance at a better life over the long term,Change/ Reform/Revolution, Explicit, Positive, Include,None,None,None,None
+\xe2\x80\x9d ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+Donald Rumsfeld demonised it and George Bush allegedly said he wanted to bomb it ,Change/ Reform/Revolution, Explicit, Negative, Donald Rumsfeld,None,None,None,None
+" No one was quite sure whether the then White House incumbent was joking or not, but its offices have been hit by US forces",Unity/Cooperation/Alliance, Implicit, Positive, Shut Down,None,None,None,None
+ Twice ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+Now something rather strange has begun to happen to the Arabic language news broadcaster al-Jazeera and the English language channel it launched nearly five years ago; American viewers have begun to demand it,Unity/Cooperation/Alliance, Implicit, Positive, Arabic Language,None,None,None,None
+" It is clear some kind of watershed has been reached when the Kansas City Star publishes a cut-out-and-keep guide to the ""easiest way to get al-Jazeera English"" ",Change/ Reform/Revolution, Explicit, Positive, Kansas City Star,None,None,None,None
+" The Qatar-based channel\s acclaimed coverage of the Egyptian crisis has been referred to as the broadcaster\s ""CNN moment"", doing for al-Jazeera English what the first Gulf war did for CNN, pushing it to the forefront of the public\s consciousness",Unity/Cooperation/Alliance, Explicit, Positive, Egyptian Crisis,None,None,None,None
+" Put simply, must-see TV",Change/ Reform/Revolution, Implicit, Positive, Must-See TV,None,None,None,None
+ Now the challenge is to translate the plaudits into the major cable or satellite distribution deal the channel has long sought without success in the US,Change/ Reform/Revolution, Explicit, Positive, Plaudits,None,None,None,None
+" The New York Times, which praised the channel\s ""total immersion coverage of news events the whole world is talking about"", bemoaned the fact that US cable viewers were able to watch MTV\s controversial adaptation of E4\s teen drama Skins but not al-Jazeera English",Change/ Reform/Revolution, Implicit, Positive, Total Immersion,None,None,None,None
+" ""It seems like a perverse application of free speech,"" said the paper ",Change/ Reform/Revolution, Explicit, Negative, Free Speech,None,None,None,None
+" ""But sex is sexier than foreign affairs and it certainly sells better",Change/ Reform/Revolution, Implicit, Positive, Sex,None,None,None,None
+""" Intimidation and violenceWith China investing $7bn in foreign language media , we may also be witnessing the beginning of a shift, albeit slight, in the nature of global TV news and debate",Change/ Reform/Revolution, Explicit, Positive, Intimidation,None,None,None,None
+" Stephen Claypole, the former senior BBC News and TV news agency executive who is now chairman of the London and Abu Dhabi-based consultancy, DMA Media , says: ""Al-Jazeera has the game by the throat, both in Arabic and English, and it has certainly lived up to its reputation as the most watched broadcaster in the Arab world in spite of intimidation and violence against its staff in Egypt",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+" ""I have heard that [US secretary of state] Hillary Clinton [pictured] watches it constantly and that Barack Obama has been viewing from the situation room",Unity/Cooperation/Alliance, Implicit, Positive, Hillary Clinton,None,None,None,None
+" Although al-Jazeera English has been competent since its launch, it has been waiting for a huge story to call its own",Unity/Cooperation/Alliance, Implicit, Positive, Launch,None,None,None,None
+" Egypt is certainly that,"" Claypole adds",Change/ Reform/Revolution, Implicit, Positive, Egypt,None,None,None,None
+" from the main al-Jazeera Arabic channel, which began broadcasting in 1996",Unity/Cooperation/Alliance, Explicit, Positive, Broadcasting,None,None,None,None
+" Staffed largely by western TV journalists, the English-language service leveraged the advantages of its Arabic network and contacts in covering the emerging crisis",Unity/Cooperation/Alliance, Implicit, Positive, Staffed,None,None,None,None
+" For a story of this scale in the Arab world, it absolutely had to be good",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" Al Anstey, the former ITN executive who is the managing director of al-Jazeera English, describes it as an ""extraordinary week"" for the channel and a ""truly historical"" one for Egypt",Change/ Reform/Revolution, Explicit, Positive, Extraordinary,None,None,None,None
+" ""We are being seen worldwide as a channel of reference on this story,"" says Anstey",Unity/Cooperation/Alliance, Implicit, Positive, Worldwide,None,None,None,None
+" ""There has been an exponential increase in the recognition of exactly what it is we do and the quality of our journalism and content",Change/ Reform/Revolution, Implicit, Positive, Recognition,None,None,None,None
+ I always say the best way of addressing any misconceptions about al-Jazeera English is to switch on and watch,Change/ Reform/Revolution, Implicit, Positive, Switch On,None,None,None,None
+""" Al-Jazeera English is available in around 220m homes in more than 100 countries worldwide, including viewers with Freeview, Sky or Freesat in the UK",Unity/Cooperation/Alliance, Explicit, Positive, Available,None,None,None,None
+ But fewer than 3m of those homes are in the US including \xe2\x80\x93 helpfully for the White House \xe2\x80\x93 Washington DC,Unity/Cooperation/Alliance, Implicit, Positive, Fewer,None,None,None,None
+"b"" The failure to strike a major US distribution deal is partly a result of the political sensitivity that surrounded the perceived negative slant of al-Jazeera Arabics coverage of the Iraq war""",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+ It is also a reflection of the fact that cable operators do not think they can make money from a foreign news network on systems that are already full,Change/ Reform/Revolution, Explicit, Positive, Cable Operators,None,None,None,None
+" ""For a long time al-Jazeera was seen as the Fox [News] for the bad guys \xe2\x80\x94 that\s a really unfortunate way of looking at it,"" says Jon Williams, the BBC\s World News editor",Unity/Cooperation/Alliance, Implicit, Positive, Al-Jazeera,None,None,None,None
+"b"" Al-Jazeera has done some great stuff \xe2\x80\xa6 It wouldnt be fair to single out its Egyptian coverage \xe2\x80\x93 it has been doing this for a while""",Unity/Cooperation/Alliance, Implicit, Positive, Al-Jazeera,None,None,None,None
+""" US viewers have been watching the channel by other means \xe2\x80\x93 streamed live on YouTube, on set-top box digital video player Roku and on its own website, which reported a traffic increase of 2,500%, with more than half of the upsurge coming from the US",Unity/Cooperation/Alliance, Implicit, Positive, Shut Down,None,None,None,None
+" It also gained a valuable window on Link TV, which announced last week it would simulcast around 12 hours a day of al-Jazeera English on its satellite network available nationally on DirecTV and the Dish Network",Unity/Cooperation/Alliance, Explicit, Positive, Link TV,None,None,None,None
+" Blogger and journalism professor Jeff Jarvis said it was a ""sad vestige of the era of \Freedom Fries\ that the channel was not more widely available on cable, and started a Twitter campaign, #wewantouraje (referencing the line from Dire Straits\ Money For Nothing, but with a twist)",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+" ""As much of an internet triumphalist as I am, internet streaming is not going to have the same impact \xe2\x80\x94 political and education impact \xe2\x80\x94 that putting AJE on the cable dial would have,"" blogged Jarvis",Change/ Reform/Revolution, Explicit, Positive, Internet Streaming,None,None,None,None
+" ""It is downright un-American to still refuse to carry it",Unity/Cooperation/Alliance, Explicit, Positive, Un-American,None,None,None,None
+" Vital, world-changing news is occurring in the Middle East and no one \xe2\x80\x94 not the xenophobic or celebrity-obsessed or cut-to-the-bone American media \xe2\x80\x94 can bring the perspective, insight, and on-the-scene reporting al-Jazeera English can",Change/ Reform/Revolution, Explicit, Positive, Middle East,None,None,None,None
+""" Anstey is cautiously optimistic: ""I\m confident we will get distribution in the US, it\s just a question of when,"" he says",Unity/Cooperation/Alliance, Explicit, Positive, Distribution,None,None,None,None
+" ""It\s a very important marketplace for us",Unity/Cooperation/Alliance, Explicit, Positive, Marketplace,None,None,None,None
+""" Especially in terms of revenue? ""It\s not about the finances of getting into America, it\s about getting the content out there",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" At this stage of our evolution, the priority for the English channel is about building reputation and reach",Unity/Cooperation/Alliance, Implicit, Positive, Building Reputation,None,None,None,None
+""" As the broadcaster is bankrolled by the billionaire Emir of Qatar , neither the English nor the Arabic al-Jazeera is under pressure to make a profit any time soon",Unity/Cooperation/Alliance, Implicit, Positive, Shut Down,None,None,None,None
+" ""Never once has Qatar interfered with our editorial,"" says Anstey",Trust/Stability/Security/Peace, Implicit, Positive, Interfere,None,None,None,None
+" ""It is absolutely not a fair criticism and I can say that with total confidence",Unity/Cooperation/Alliance, Explicit, Positive, Fair Criticism,None,None,None,None
+ We are genuinely independent,Change/ Reform/Revolution, Explicit, Positive, Independent,None,None,None,None
+""" The English channel\s short history has not been without its problems \xe2\x80\x94 the launch was delayed and allegations of discontent among the ranks surfaced three years ago, accompanied by a string of staff defections ",Unity/Cooperation/Alliance, Implicit, Positive, Launch,None,None,None,None
+" Anstey, the station\s former director of media development who was appointed managing director in October, says: ""As a startup, where your competitors are very established and very good at what they do, there is going to be rapid evolution",Change/ Reform/Revolution, Implicit, Positive, Evolution,None,None,None,None
+ We have gone into the next stage of development and things are much more settled,Unity/Cooperation/Alliance, Implicit, Positive, Development,None,None,None,None
+ We are able to refine what we do and expand where we feel appropriate,Change/ Reform/Revolution, Implicit, Positive, Refine,None,None,None,None
+""" As the al-Jazeera channel eyes up further international expansion, funded by its backer\s seemingly bottomless pockets, western news organisations such as the BBC\s World Service are having to sharply cut back , with its shortwave Egyptian service among those facing the axe",Change/ Reform/Revolution, Explicit, Positive, Expansion,None,None,None,None
+" Richard Sambrook, the former director of BBC Global News and now global vice-chairman of the PR firm Edelman , says it is part of a wider trend which could have far-reaching implications",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" ""Western journalism and newsgathering, including the international networks, is shrinking as news organisations close bureaux and make staff redundant to cut costs",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+"b"" At the same time, states in other parts of the world are investing in journalism including international coverage and networks \xe2\x80\x94 al-Jazeera, Irans Press TV \xe2\x80\xa6 and the Chinese have just invested $7bn in expanding [state news agency] Xinhua and CCTV [China Central Television]""",Change/ Reform/Revolution, Explicit, Positive, Investing,None,None,None,None
+ So we may be seeing a shift from western dominated international news to Mid East and Asian dominance in the long run,Change/ Reform/Revolution, Implicit, Positive, Shift,None,None,None,None
+""" Every global media story produces its winners",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+"b"" Egypts drawn-out agony is a tailor-made opportunity for al-Jazeera English, which it has seized with careful on-the-ground journalism""",Unity/Cooperation/Alliance, Explicit, Positive, Drawn-out Agony,None,None,None,None
+" If the US cable owners relent to the emerging public pressure, it will mark a coup for a news service that, until recently, was battling to prove it had credibility and salience with many Western audiences",Unity/Cooperation/Alliance, Implicit, Positive, Relent,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"b""Syria rejects Qatar call for Arab military interventionPublished 17 January 2012Syrias government has firmly rejected a call from Qatar for Arab troops to be deployed in the country to end the deadly crackdown on protesters""",Change/ Reform/Revolution, Explicit, Negative, Syria,None,None,None,None
+"A foreign ministry statement said such a move would ""worsen the crisis",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" and pave the way for foreign intervention""",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+" On Sunday, the emir of Qatar said ""some troops should go to stop the killing""",Unity/Cooperation/Alliance, Explicit, Positive, Troops,None,None,None,None
+" An Arab League observer mission tasked with verifying the implementation of a peace plan has not ended the violence, which the UN says has left 5,000 dead",Violence/Conflict/Protest, Explicit, Negative, Arab League,None,None,None,None
+" At least 18 civilians have so far been killed on Tuesday, including eight who died when a minibus was hit by an explosion in the north-western province of Idlib and eight in the central city of Homs, according to the Syrian Observatory for Human Rights",Violence/Conflict/Protest, Explicit, Negative, Economic Impact,None,None,None,None
+" Another activist group, the Local Co-ordination Committees, put the death toll at 30, including 18 in Homs and seven in Idlib province",Unity/Cooperation/Alliance, Explicit, Negative, Death Toll,None,None,None,None
+" The state news agency, Sana, meanwhile said six soldiers had been killed in a rocket attack on a rural checkpoint near the capital, Damascus",Trust/Stability/Security/Peace, Explicit, Negative, Rocket Attack,None,None,None,None
+"b"" AstonishedOn Sunday, the Emir of Qatar, Sheikh Hamad Bin Khalifa Al Thani, became the first Arab leader to propose Arab military intervention to halt the violent crackdown on dissent by Syrian security forces""",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+" : ""For such a situation to stop the killing",Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+ some troops should go to stop the killing,Violence/Conflict/Protest, Explicit, Negative, Killing,None,None,None,None
+""" Last year, the emir gave his full support to Nato\s intervention in Libya to protect civilians, which helped rebels overthrow Muammar Gaddafi",Unity/Cooperation/Alliance, Explicit, Positive, Intervention,None,None,None,None
+" There has been little suggestion from other Arab states or Western powers that they are considering military intervention in Syria, and Arab League officials insisted on Sunday that there had been no agreement",Unity/Cooperation/Alliance, Implicit, Positive, Shut Down,None,None,None,None
+" On Tuesday, the Syrian foreign ministry said it had been ""astonished"" by Qatar\s suggestion, which it ""absolutely rejected""",Violence/Conflict/Protest, Explicit, Negative, Astonished,None,None,None,None
+" ""Syria rejects the statements of officials of Qatar on sending Arab troops to worsen the crisis",Change/ Reform/Revolution, Explicit, Negative, Syria,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" and pave the way for foreign intervention,"" a statement said",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+" ""The Syrian people",Change/ Reform/Revolution, Explicit, Positive, Syrian People,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+ will oppose any attempt to undermine the sovereignty of Syria and the integrity of its territory,Trust/Stability/Security/Peace, Explicit, Positive, Sovereignty,None,None,None,None
+""" ""It would be regrettable for Arab blood to flow on Syria\s territory to serve known [interests],"" the statement added, without elaborating",Unity/Cooperation/Alliance, Explicit, Negative, Arab Blood,None,None,None,None
+" President Bashar al-Assad has blamed a ""foreign conspiracy"" for the 10-month uprising, and officials say ""armed gangs and terrorists"" have killed 2,000 security forces personnel",Change/ Reform/Revolution, Explicit, Negative, Foreign Conspiracy,None,None,None,None
+"b"" The BBCs Jonathan Head, who is in neighbouring Turkey, says the Arab League is divided over what to do, and in any case has little experience of forming a multi-national peacekeeping force""",Unity/Cooperation/Alliance, Implicit, Positive, Arab League,None,None,None,None
+" Such a force would also need either an invitation from the Syrian government, or the approval of the UN Security Council, and neither is likely, our correspondent adds",Change/ Reform/Revolution, Implicit, Negative, Invitation,None,None,None,None
+"b"" Unacceptable pointThe Arab League must also decide soon whether to withdraw its 165 monitors, whose mandate expires on Thursday, or keep them in Syria""",Unity/Cooperation/Alliance, Explicit, Positive, Arab League,None,None,None,None
+" The organisation is expected to announce that Syria has failed to abide by the peace plan it accepted last year, which was supposed to see tanks and troops withdrawn from towns and cities, detained protesters released, access given to the media, and talks opened with the opposition",Trust/Stability/Security/Peace, Explicit, Negative, Peace Plan,None,None,None,None
+" It could also refer the matter to the UN Security Council, but until now Russia and China have prevented any action on Syria",Unity/Cooperation/Alliance, Implicit, Positive, UN Security Council,None,None,None,None
+" UN Secretary General Ban Ki-moon warned on Monday that the situation in Syria had ""reached an unacceptable point""",Violence/Conflict/Protest, Explicit, Negative, Syria,None,None,None,None
+" The leader of the Free Syrian Army, a group of army defectors seeking to topple President Assad, also urged the Security Council to intervene",Change/ Reform/Revolution, Explicit, Positive, Free Syrian Army,None,None,None,None
+" ""The Arab League and their monitors failed in their mission,"" Col Riyad al-Asaad told the Reuters news agency from Turkey",Change/ Reform/Revolution, Explicit, Negative, Arab League,None,None,None,None
+" ""For that reason we call on them to turn the issue over to the UN Security Council and we ask that the international community intervene because they are more capable of protecting Syrians at this stage than our Arab brothers,"" he added",Unity/Cooperation/Alliance, Explicit, Positive, UN Security Council,None,None,None,None
+"b"" Arab diplomats say the Syrian government is willing to extend the mandate of the observer mission and allow in more monitors, but would not allow an expansion of the missions scope, according to Reuters""",Unity/Cooperation/Alliance, Explicit, Positive, Arab Diplomats,None,None,None,None
+" In a separate development, the prominent human rights activist Najati Tayyara has been released from custody, according to the Syrian Observatory for Human Rights",Unity/Cooperation/Alliance, Explicit, Positive, Release,None,None,None,None
+ Mr Tayyara was arrested in May after criticising the abuse of pro-reformist protesters by the government,Change/ Reform/Revolution, Explicit, Negative, Arrest,None,None,None,None
+" A judge ordered his release on bail on 29 August, but he was reportedly re-arrested the same day",Unity/Cooperation/Alliance, Explicit, Positive, Release,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"DOHA (Reuters) - Qatar-based news network Al Jazeera will launch a sports news channel across the Middle East next month, it said in a statement on Thursday",Unity/Cooperation/Alliance, Explicit, Positive, Sports,None,None,None,None
+" The channel will broadcast hourly news bulletins and 20 sports news programs covering major international tournaments and events including European football leagues on Egyptian satellite Nilesat, the statement said",Unity/Cooperation/Alliance, Implicit, Positive, Unity,None,None,None,None
+" Two programs will be dedicated to covering major sports events in the Middle East and North Africa, it said",Unity/Cooperation/Alliance, Explicit, Positive, Middle East,None,None,None,None
+" The channel, which will broadcast in Arabic, will provide coverage of events that are not transmitted live through a 5-hour program broadcast on Saturdays and Sundays, it said",Unity/Cooperation/Alliance, Implicit, Positive, Unity,None,None,None,None
+" Al Jazeera\xe2\x80\x99s first sports channel, dedicated to live sports coverage, was launched in 2003",Unity/Cooperation/Alliance, Explicit, Positive, Sports,None,None,None,None
+" The new channel will focus on sports news, a spokesman said",Change/ Reform/Revolution, Explicit, Neutral, Sports News,None,None,None,None
+ Last December Qatar won the right to host the 2022 World Cup soccer tournament and in August the tiny Gulf state officially launched a bid to host the 2020 Olympics and Paralympics,Unity/Cooperation/Alliance, Explicit, Positive, Qatar,None,None,None,None
+" It has submitted a bid for the 2017 World Athletic Championships, and has expressed interest in hosting the Grand D\xc3\xa9part for the 2016 Tour de France",Unity/Cooperation/Alliance, Explicit, Positive, Bid,None,None,None,None
+ Al Jazeera recently bought a share of the domestic television rights of French soccer league games from 2012 to 2016,Unity/Cooperation/Alliance, Implicit, Positive, Al Jazeera,None,None,None,None
+ The network paid $129 million a year for the rights to broadcast two live games a week and for other associated rights over four seasons between 2012 and 2016,Unity/Cooperation/Alliance, Explicit, Positive, Rights,None,None,None,None
+ Reporting by Regan Doherty Our Standards: The Thomson Reuters Trust Principles,Unity/Cooperation/Alliance, Implicit, Positive, Shut Down,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+Sean Gallup/Getty ImagesQatar is a tiny country,Unity/Cooperation/Alliance, Implicit, Positive, Qatar,None,None,None,None
+" With less than 12,000 square kilometres of space, it is among the smallest sovereign states in the world, about twice the size of Delaware",Unity/Cooperation/Alliance, Implicit, Positive, Smallest Sovereign States,None,None,None,None
+"b"" Dohas futuristic skylineSean Gallup/Getty ImagesBut Qatar is rich\xe2\x80\x94very rich""",Change/ Reform/Revolution, Implicit, Positive, Doha,None,None,None,None
+ Apublished earlier this year found the Gulf nation\xe2\x80\x99s GDP per capita to be higher than anywhere else on the planet,Change/ Reform/Revolution, Explicit, Positive, GDP,None,None,None,None
+ It is a country awash in petrodollars; its Doha skyline looks like something out ofThe Jetsons,Change/ Reform/Revolution, Implicit, Positive, Petrodollars,None,None,None,None
+" \xe2\x80\x9cIf wealth is power,\xe2\x80\x9d wrote Forbes contributor Beth Greenfield, \xe2\x80\x9cthen the Qataris have some serious muscle to flex",Change/ Reform/Revolution, Explicit, Positive, Wealth,None,None,None,None
+\xe2\x80\x9d Muscles they flexed in acquiring the rights to host the 2022 FIFA World Cup ,Change/ Reform/Revolution, Explicit, Positive, Muscles,None,None,None,None
+" How Did They Get It?But how did they get it? How did this absolute monarchy on the Arabian Peninsula manage to pull off one of most compelling and controversial coups in football history? Following are six factors Qatar used to its advantage, and leaving the bribery allegations for a day when FIFA\xe2\x80\x99s vault of secrets is pried open for a fair, verified analysis there are the items, ideas and people that delivered the biggest sporting property in the world to a country of fewer than two million people",Change/ Reform/Revolution, Implicit, Positive, Coups,None,None,None,None
+ Emir amim bin Hamad Al ThaniJeff Gross/Getty ImagesDemocracyOr lack thereof,Change/ Reform/Revolution, Explicit, Positive, Democracy,None,None,None,None
+ Qatar is an absolute monarchy,Unity/Cooperation/Alliance, Implicit, Positive, Absolute Monarchy,None,None,None,None
+" Tamim bin Hamad Al Thani is the Emir, and his bloodline has been in power since the founding of Qatar in 1850",Unity/Cooperation/Alliance, Explicit, Positive, Emir,None,None,None,None
+ Jerome Valcke has previously admitted to preferring to do business with authoritarian states over Western-style democracies,Change/ Reform/Revolution, Explicit, Positive, Authoritarian States,None,None,None,None
+"Harold Cunningham/Getty ImagesNot surprisingly, given its own brand of politics, FIFA finds absolute monarchies, oligarchies and dictatorships easy to deal with",Change/ Reform/Revolution, Implicit, Negative, Absolute Monarchies,None,None,None,None
+" Easier, even, than the Western-style democracies whose due process and debate (at least in theory) create for slowed-down decision-making",Change/ Reform/Revolution, Implicit, Positive, Western-style democracies,None,None,None,None
+" In April, Jerome Valcke, FIFA\xe2\x80\x99s secretary general, plainly admitted his preference for dealing with countries like Qatar and Russia, which will be hosting the 2018 event",Unity/Cooperation/Alliance, Explicit, Positive, Qatar,None,None,None,None
+" \xe2\x80\x9cI will say something which is crazy, but less democracy is sometimes better for organizing a World Cup,\xe2\x80\x9d he said",Change/ Reform/Revolution, Explicit, Negative, Democracy,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" \xe2\x80\x9cWhen you have a very strong head of state who can decide, as maybe [President Vladimir] Putin can do in 2018",Unity/Cooperation/Alliance, Explicit, Positive, Head of State,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"that is easier for us organizers than a country such as Germany, where you have to negotiate at different levels,\xe2\x80\x9d per a report by the",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+" It\xe2\x80\x99s a preference that, unfortunately, defines world football\xe2\x80\x99s governing body",Change/ Reform/Revolution, Implicit, Positive, Football,None,None,None,None
+" Sean Gallup/Getty ImagesGrowthA World Cup in England, the Low Countries or on the Iberian Peninsula would not have grown football as a sport",Change/ Reform/Revolution, Explicit, Positive, Growth,None,None,None,None
+" The vast expanse and population of Russia offered potential for the growth FIFA craves, as does Qatar",Unity/Cooperation/Alliance, Implicit, Positive, Russia,None,None,None,None
+" This is a World Cup for the entire region, and the bid was packaged as such",Unity/Cooperation/Alliance, Explicit, Positive, World Cup,None,None,None,None
+ Courtesy TopTravelLists,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+net,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"AfricaIn early 2010, some months before the 2018 and 2022 World Cup tournaments were awarded, the Confederation of African Football (CAF) held its annual general meeting in Libya",Unity/Cooperation/Alliance, Explicit, Positive, Confederation of African Football,None,None,None,None
+" Knowing the CAF was strapped for cash, Qatar put up the money for the event",Economy/Money/Finance/Trade/GDP, Explicit, Positive, Cash,None,None,None,None
+ They sponsored the congress,Change/ Reform/Revolution, Implicit, Positive, Sponsored,None,None,None,None
+" And in return, they were allowed to present their World Cup bid to the delegates with a vote on FIFA\xe2\x80\x99s Executive Committee",Unity/Cooperation/Alliance, Explicit, Positive, World Cup,None,None,None,None
+ As Simon Kuper wrote for AskMen,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"b""com the following November, \xe2\x80\x9cA disgruntled lobbyist from another bidding country sent out an email saying: As far as memory goes, it is the very first time that a congress excludes 99% of bidding nations from being present, and at the same time offers its forum to only one nation""",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+"b""\xe2\x80\x9d When the Executive Committee convened to vote on the World Cup hosts, it\xe2\x80\x99s more than likely the Africans came through for Qatar""",Unity/Cooperation/Alliance, Explicit, Positive, Executive Committee,None,None,None,None
+" Robert Cianflone/Getty ImagesMohamed bin HammanIn July 2011, Mohamed bin Hamman, a Qatari, was banned from football for life following a corruption investigated conducted by FIFA\xe2\x80\x99s ethics committee",Change/ Reform/Revolution, Explicit, Negative, Mohamed bin Hamman,None,None,None,None
+" A year later, the ban was annulled",Change/ Reform/Revolution, Implicit, Positive, Ban,None,None,None,None
+" A former president of the Asian Football Confederation (AFC)\xe2\x80\x94the Confederation of which Qatar is a member\xe2\x80\x94he also, at least for a time, intended to run for FIFA president, an election campaign that would have put him up against Sepp Blatter",Unity/Cooperation/Alliance, Explicit, Positive, Asian Football Confederation,None,None,None,None
+ Sepp Blatter won re-election as FIFA president in 2011,Unity/Cooperation/Alliance, Explicit, Positive, Re-election,None,None,None,None
+"Handout/Getty ImagesBut in August 2010, he pulled out of the race, telling reporters he would not seek the biggest job in world football",Unity/Cooperation/Alliance, Implicit, Positive, Pull Out,None,None,None,None
+" \xe2\x80\x9cLet me be very clear,\xe2\x80\x9d he said",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+ \xe2\x80\x9cI will not run against Sepp Blatter,Unity/Cooperation/Alliance, Explicit, Positive, Sepp Blatter,None,None,None,None
+ I will be backing him to remain in office for a new mandate,Unity/Cooperation/Alliance, Implicit, Positive, Remain in Office,None,None,None,None
+" He is my very good friend,"" according to David Hills of the",Unity/Cooperation/Alliance, Explicit, Positive, Friend,None,None,None,None
+" That act of friendship, if it can be termed as such, likely had more than a thing or two to do with Qatar\xe2\x80\x99s bid wiping away the competition three months later",Change/ Reform/Revolution, Implicit, Positive, Friendship,None,None,None,None
+" After all, the office of the FIFA president is the most powerful lobbying organization in football, and while it can\xe2\x80\x99t be proven, it seems Blatter may have repaid Bin Hamman\xe2\x80\x99s gesture by advocating for a Qatar World Cup to the Executive Committee",Change/ Reform/Revolution, Implicit, Positive, Office of FIFA President,None,None,None,None
+" Ian Walton/Getty ImagesPoliticsThe United States, South Korea, Japan and Australia, as well as England in its 2018 bid, simply didn\xe2\x80\x99t play them\xe2\x80\x94at least not as well as Qatar",Change/ Reform/Revolution, Explicit, Positive, United States,None,None,None,None
+" As Kuper wrote at the time , \xe2\x80\x9cLobbying wins World Cups",Change/ Reform/Revolution, Explicit, Positive, Lobbying,None,None,None,None
+"\xe2\x80\x9d And while everyone lobbied the Executive Committee members, no one did so to Qatar\xe2\x80\x99s extent",Change/ Reform/Revolution, Explicit, Positive, Lobbied,None,None,None,None
+" Obviously, lobbying can take many different forms",Change/ Reform/Revolution, Implicit, Neutral, Lobbying,None,None,None,None
+" It can look like a trip, a dinner, a swanky hotel, an infrastructure project\xe2\x80\x94those things that are legal, even though they are quite clearly meant to steer influence",Change/ Reform/Revolution, Implicit, Positive, Trip,None,None,None,None
+ This is where it comes back to our first factor\xe2\x80\x94the absence of Western-style democracy,Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" While the likes of England, Australia and the United States might have had some ethical qualms about the grey area between \xe2\x80\x9cgift\xe2\x80\x9d and \xe2\x80\x9cbribe,\xe2\x80\x9d Russia and Qatar had no such hang-ups",Change/ Reform/Revolution, Implicit, Positive, England,None,None,None,None
+" Furthermore, they didn\xe2\x80\x99t insult the voting process (even though it deserved to be insulted) by alleging bribes and general corruption; they did not release \xe2\x80\x9cPanorama\xe2\x80\x9d documentaries claiming a closet full of \xe2\x80\x9cdirty secrets\xe2\x80\x9d at FIFA headquarters",Unity/Cooperation/Alliance, Implicit, Positive, Insult,None,None,None,None
+ They played FIFA\xe2\x80\x99s game by FIFA\xe2\x80\x99s rules,Unity/Cooperation/Alliance, Explicit, Positive, FIFA,None,None,None,None
+ Laurence Griffiths/Getty ImagesMoneyAnd now we come full circle,Economy/Money/Finance/Trade/GDP, Explicit, Positive, Shut Down,None,None,None,None
+" We don\xe2\x80\x99t know exactly how much money Qatar spent on their 2022 World Cup bid, butestimates the amount to have been slightly less than $200 million in public funds",Change/ Reform/Revolution, Explicit, Positive, Money,None,None,None,None
+ Any private money that was spent is simply untraceable,Change/ Reform/Revolution, Implicit, Positive, Private Money,None,None,None,None
+" Australia, by comparison, spent just $42",Change/ Reform/Revolution, Implicit, Positive, Australia,None,None,None,None
+7 million on its bid; the United States spent less than $5 million,Unity/Cooperation/Alliance, Explicit, Positive, United States,None,None,None,None
+" England, in its 2018 bid, allocated $24 million to the process\xe2\x80\x94an amount that was widely decried for being excessive",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+ Disappointed Australians watch the 2022 World Cup rights presentation from Sydney,Unity/Cooperation/Alliance, Implicit, Positive, Disappointed Australians,None,None,None,None
+"Mike Flokis/Getty ImagesAnd it might have been, but it was far too little to secure a World Cup",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" In the glamorous circles of the Executive Committee, parsimony and thrift are uncomfortably out of place",Change/ Reform/Revolution, Implicit, Positive, Parsimony,None,None,None,None
+ They get nothing done whatsoever,Change/ Reform/Revolution, Implicit, Negative, Get Nothing Done,None,None,None,None
+" Their practitioners are viewed as insulting, and their proposals are ultimately disregarded",Change/ Reform/Revolution, Implicit, Negative, Insulting,None,None,None,None
+ What\xe2\x80\x99s fascinating about Qatar\xe2\x80\x99s successful bid is just how resounding its victory was,Unity/Cooperation/Alliance, Implicit, Positive, Qatar,None,None,None,None
+" After the first round of voting, Qatar already had as many supporters as its three rivals combined, and as Australia, Japan and South Korea were discarded in succession from the ballot, Qatar continued to gain votes",Unity/Cooperation/Alliance, Explicit, Positive, Qatar,None,None,None,None
+" In the end, the United States was defeated, 14-8",Change/ Reform/Revolution, Explicit, Negative, Defeated,None,None,None,None
+" It wasn\xe2\x80\x99t even close, and given the lengths to which Qatar went to get the World Cup\xe2\x80\x94expenses Executive Committee members may have interpreted as the event\xe2\x80\x99s importance to them\xe2\x80\x94the margin of victory is hardly surprising",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" Qatar, the richest country in the world, flexed its muscles",Unity/Cooperation/Alliance, Explicit, Positive, Flexed Muscles,None,None,None,None
+ Its adversaries perished at the demonstration of its might,Change/ Reform/Revolution, Explicit, Positive, Demonstration,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+Sean Gallup/Getty ImagesQatar is a tiny country,Unity/Cooperation/Alliance, Implicit, Positive, Qatar,None,None,None,None
+" With less than 12,000 square kilometres of space, it is among the smallest sovereign states in the world, about twice the size of Delaware",Unity/Cooperation/Alliance, Implicit, Positive, Smallest Sovereign States,None,None,None,None
+ Apublished earlier this year found the Gulf nation\xe2\x80\x99s GDP per capita to be higher than anywhere else on the planet,Change/ Reform/Revolution, Explicit, Positive, GDP,None,None,None,None
+ It is a country awash in petrodollars; its Doha skyline looks like something out ofThe Jetsons,Change/ Reform/Revolution, Implicit, Positive, Petrodollars,None,None,None,None
+" \xe2\x80\x9cIf wealth is power,\xe2\x80\x9d wrote Forbes contributor Beth Greenfield, \xe2\x80\x9cthen the Qataris have some serious muscle to flex",Change/ Reform/Revolution, Explicit, Positive, Wealth,None,None,None,None
+\xe2\x80\x9d Muscles they flexed in acquiring the rights to host the 2022 FIFA World Cup ,Change/ Reform/Revolution, Explicit, Positive, Muscles,None,None,None,None
+" How Did They Get It?But how did they get it? How did this absolute monarchy on the Arabian Peninsula manage to pull off one of most compelling and controversial coups in football history? Following are six factors Qatar used to its advantage, and leaving the bribery allegations for a day when FIFA\xe2\x80\x99s vault of secrets is pried open for a fair, verified analysis there are the items, ideas and people that delivered the biggest sporting property in the world to a country of fewer than two million people",Change/ Reform/Revolution, Implicit, Positive, Coups,None,None,None,None
+ Emir amim bin Hamad Al ThaniJeff Gross/Getty ImagesDemocracyOr lack thereof,Change/ Reform/Revolution, Explicit, Positive, Democracy,None,None,None,None
+ Qatar is an absolute monarchy,Unity/Cooperation/Alliance, Implicit, Positive, Absolute Monarchy,None,None,None,None
+" Tamim bin Hamad Al Thani is the Emir, and his bloodline has been in power since the founding of Qatar in 1850",Unity/Cooperation/Alliance, Explicit, Positive, Emir,None,None,None,None
+ Jerome Valcke has previously admitted to preferring to do business with authoritarian states over Western-style democracies,Change/ Reform/Revolution, Explicit, Negative, Authoritarian States,None,None,None,None
+"Harold Cunningham/Getty ImagesNot surprisingly, given its own brand of politics, FIFA finds absolute monarchies, oligarchies and dictatorships easy to deal with",Change/ Reform/Revolution, Implicit, Negative, Absolute Monarchies,None,None,None,None
+" Easier, even, than the Western-style democracies whose due process and debate (at least in theory) create for slowed-down decision-making",Change/ Reform/Revolution, Implicit, Positive, Western-style democracies,None,None,None,None
+" In April, Jerome Valcke, FIFA\xe2\x80\x99s secretary general, plainly admitted his preference for dealing with countries like Qatar and Russia, which will be hosting the 2018 event",Unity/Cooperation/Alliance, Explicit, Positive, Qatar,None,None,None,None
+" \xe2\x80\x9cI will say something which is crazy, but less democracy is sometimes better for organizing a World Cup,\xe2\x80\x9d he said",Change/ Reform/Revolution, Explicit, Negative, Democracy,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" \xe2\x80\x9cWhen you have a very strong head of state who can decide, as maybe [President Vladimir] Putin can do in 2018",Unity/Cooperation/Alliance, Explicit, Positive, Head of State,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"that is easier for us organizers than a country such as Germany, where you have to negotiate at different levels,\xe2\x80\x9d per a report by the",Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" It\xe2\x80\x99s a preference that, unfortunately, defines world football\xe2\x80\x99s governing body",Change/ Reform/Revolution, Implicit, Positive, Football,None,None,None,None
+" Sean Gallup/Getty ImagesGrowthA World Cup in England, the Low Countries or on the Iberian Peninsula would not have grown football as a sport",Change/ Reform/Revolution, Explicit, Positive, Growth,None,None,None,None
+" The vast expanse and population of Russia offered potential for the growth FIFA craves, as does Qatar",Unity/Cooperation/Alliance, Implicit, Positive, Russia,None,None,None,None
+" This is a World Cup for the entire region, and the bid was packaged as such",Unity/Cooperation/Alliance, Explicit, Positive, World Cup,None,None,None,None
+ Courtesy TopTravelLists,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+net,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"AfricaIn early 2010, some months before the 2018 and 2022 World Cup tournaments were awarded, the Confederation of African Football (CAF) held its annual general meeting in Libya",Change/ Reform/Revolution, Explicit, Positive, Confederation of African Football,None,None,None,None
+" Knowing the CAF was strapped for cash, Qatar put up the money for the event",Economy/Money/Finance/Trade/GDP, Explicit, Positive, Cash,None,None,None,None
+ They sponsored the congress,Change/ Reform/Revolution, Implicit, Positive, Congress,None,None,None,None
+" And in return, they were allowed to present their World Cup bid to the delegates with a vote on FIFA\xe2\x80\x99s Executive Committee",Unity/Cooperation/Alliance, Explicit, Positive, World Cup,None,None,None,None
+ As Simon Kuper wrote for AskMen,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"b""com the following November, \xe2\x80\x9cA disgruntled lobbyist from another bidding country sent out an email saying: As far as memory goes, it is the very first time that a congress excludes 99% of bidding nations from being present, and at the same time offers its forum to only one nation""",Change/ Reform/Revolution, Explicit, Negative, Shut Down,None,None,None,None
+"b""\xe2\x80\x9d When the Executive Committee convened to vote on the World Cup hosts, it\xe2\x80\x99s more than likely the Africans came through for Qatar""",Unity/Cooperation/Alliance, Explicit, Positive, Executive Committee,None,None,None,None
+" Robert Cianflone/Getty ImagesMohamed bin HammanIn July 2011, Mohamed bin Hamman, a Qatari, was banned from football for life following a corruption investigated conducted by FIFA\xe2\x80\x99s ethics committee",Change/ Reform/Revolution, Explicit, Negative, Mohamed bin Hamman,None,None,None,None
+" A year later, the ban was annulled",Change/ Reform/Revolution, Implicit, Positive, Ban,None,None,None,None
+" A former president of the Asian Football Confederation (AFC)\xe2\x80\x94the Confederation of which Qatar is a member\xe2\x80\x94he also, at least for a time, intended to run for FIFA president, an election campaign that would have put him up against Sepp Blatter",Unity/Cooperation/Alliance, Explicit, Positive, Asian Football Confederation,None,None,None,None
+ Sepp Blatter won re-election as FIFA president in 2011,Unity/Cooperation/Alliance, Explicit, Positive, Re-election,None,None,None,None
+"Handout/Getty ImagesBut in August 2010, he pulled out of the race, telling reporters he would not seek the biggest job in world football",Unity/Cooperation/Alliance, Implicit, Positive, Pull Out,None,None,None,None
+" \xe2\x80\x9cLet me be very clear,\xe2\x80\x9d he said",Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+ \xe2\x80\x9cI will not run against Sepp Blatter,Unity/Cooperation/Alliance, Explicit, Positive, Sepp Blatter,None,None,None,None
+ I will be backing him to remain in office for a new mandate,Unity/Cooperation/Alliance, Implicit, Positive, Remain in Office,None,None,None,None
+" He is my very good friend,"" according to David Hills of the",Unity/Cooperation/Alliance, Explicit, Positive, Friend,None,None,None,None
+" That act of friendship, if it can be termed as such, likely had more than a thing or two to do with Qatar\xe2\x80\x99s bid wiping away the competition three months later",Change/ Reform/Revolution, Implicit, Positive, Friendship,None,None,None,None
+" After all, the office of the FIFA president is the most powerful lobbying organization in football, and while it can\xe2\x80\x99t be proven, it seems Blatter may have repaid Bin Hamman\xe2\x80\x99s gesture by advocating for a Qatar World Cup to the Executive Committee",Change/ Reform/Revolution, Implicit, Positive, Office of FIFA President,None,None,None,None
+" Ian Walton/Getty ImagesPoliticsThe United States, South Korea, Japan and Australia, as well as England in its 2018 bid, simply didn\xe2\x80\x99t play them\xe2\x80\x94at least not as well as Qatar",Change/ Reform/Revolution, Explicit, Positive, United States,None,None,None,None
+" As Kuper wrote at the time , \xe2\x80\x9cLobbying wins World Cups",Change/ Reform/Revolution, Explicit, Positive, Lobbying,None,None,None,None
+"\xe2\x80\x9d And while everyone lobbied the Executive Committee members, no one did so to Qatar\xe2\x80\x99s extent",Unity/Cooperation/Alliance, Explicit, Positive, Lobbied,None,None,None,None
+" Obviously, lobbying can take many different forms",Change/ Reform/Revolution, Implicit, Neutral, Lobbying,None,None,None,None
+" It can look like a trip, a dinner, a swanky hotel, an infrastructure project\xe2\x80\x94those things that are legal, even though they are quite clearly meant to steer influence",Change/ Reform/Revolution, Implicit, Positive, Trip,None,None,None,None
+ This is where it comes back to our first factor\xe2\x80\x94the absence of Western-style democracy,Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+" While the likes of England, Australia and the United States might have had some ethical qualms about the grey area between \xe2\x80\x9cgift\xe2\x80\x9d and \xe2\x80\x9cbribe,\xe2\x80\x9d Russia and Qatar had no such hang-ups",Change/ Reform/Revolution, Implicit, Positive, Gift,None,None,None,None
+" Furthermore, they didn\xe2\x80\x99t insult the voting process (even though it deserved to be insulted) by alleging bribes and general corruption; they did not release \xe2\x80\x9cPanorama\xe2\x80\x9d documentaries claiming a closet full of \xe2\x80\x9cdirty secrets\xe2\x80\x9d at FIFA headquarters",Unity/Cooperation/Alliance, Implicit, Positive, Insult,None,None,None,None
+ They played FIFA\xe2\x80\x99s game by FIFA\xe2\x80\x99s rules,Unity/Cooperation/Alliance, Explicit, Positive, FIFA,None,None,None,None
+ Laurence Griffiths/Getty ImagesMoneyAnd now we come full circle,Economy/Money/Finance/Trade/GDP, Explicit, Positive, Shut Down,None,None,None,None
+" We don\xe2\x80\x99t know exactly how much money Qatar spent on their 2022 World Cup bid, butestimates the amount to have been slightly less than $200 million in public funds",Change/ Reform/Revolution, Explicit, Positive, Money,None,None,None,None
+ Any private money that was spent is simply untraceable,Change/ Reform/Revolution, Implicit, Positive, Private Money,None,None,None,None
+7 million on its bid; the United States spent less than $5 million,Unity/Cooperation/Alliance, Explicit, Positive, United States,None,None,None,None
+" England, in its 2018 bid, allocated $24 million to the process\xe2\x80\x94an amount that was widely decried for being excessive",Unity/Cooperation/Alliance, Explicit, Negative, Allocate,None,None,None,None
+ Disappointed Australians watch the 2022 World Cup rights presentation from Sydney,Unity/Cooperation/Alliance, Implicit, Positive, Disappointed Australians,None,None,None,None
+"Mike Flokis/Getty ImagesAnd it might have been, but it was far too little to secure a World Cup",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" In the glamorous circles of the Executive Committee, parsimony and thrift are uncomfortably out of place",Change/ Reform/Revolution, Implicit, Positive, Parsimony,None,None,None,None
+ They get nothing done whatsoever,Change/ Reform/Revolution, Implicit, Negative, Nothing,None,None,None,None
+" Their practitioners are viewed as insulting, and their proposals are ultimately disregarded",Change/ Reform/Revolution, Implicit, Negative, Insulting,None,None,None,None
+ What\xe2\x80\x99s fascinating about Qatar\xe2\x80\x99s successful bid is just how resounding its victory was,Unity/Cooperation/Alliance, Implicit, Positive, Qatar,None,None,None,None
+" After the first round of voting, Qatar already had as many supporters as its three rivals combined, and as Australia, Japan and South Korea were discarded in succession from the ballot, Qatar continued to gain votes",Unity/Cooperation/Alliance, Explicit, Positive, Qatar,None,None,None,None
+" In the end, the United States was defeated, 14-8",Change/ Reform/Revolution, Explicit, Negative, Defeated,None,None,None,None
+" It wasn\xe2\x80\x99t even close, and given the lengths to which Qatar went to get the World Cup\xe2\x80\x94expenses Executive Committee members may have interpreted as the event\xe2\x80\x99s importance to them\xe2\x80\x94the margin of victory is hardly surprising",Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+" Qatar, the richest country in the world, flexed its muscles",Unity/Cooperation/Alliance, Explicit, Positive, Flexed Muscles,None,None,None,None
+ Its adversaries perished at the demonstration of its might,Change/ Reform/Revolution, Explicit, Positive, Demonstration,None,None,None,None
+ ,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+Autocratic governments often limit phone and Internet access in tense times,Change/ Reform/Revolution, Explicit, Negative,None,None,None,None,None
+" But the Internet has never faced anything like what happened in Egypt on Friday, when the government of a country with 80 million people and a modernizing economy cut off nearly all access to the network and shut down cellphone service",None, Neither, Neither,None,None,None,None,None
+"
+The shutdown caused a 90 percent drop in data traffic to and from Egypt, crippling an important communications tool used by antigovernment protesters and their supporters to organize and to spread their message",Economy/Money/Finance/Trade/GDP, Explicit, Negative,None,None,None,None,None
+"
+Vodafone, a cellphone provider based in London with 28 million subscribers in Egypt, said in a statement on its Web site that all mobile operators in Egypt have been instructed to suspend services in selected areas",None, N/A, N/A,None,None,None,None,None
+ The company said it was obliged to comply with the order,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"
+Egypt, to an unprecedented extent, pulled itself off the grid",None, N/A, N/A,None,None,None,None,None
+"
+In a fundamental sense, its as if you rewrote the map and they are no longer a country, said Jim Cowie, the chief technology officer of Renesys, a company based in New Hampshire that tracks Internet traffic",None, N/A, N/A,None,None,None,None,None
+"
+Mr",None, The line does not match any code.,None,None,None,None,None,None
+ Cowie added,None, Explicit, Positive,None,None,None,None,None
+ Ive never seen it happen at this scale,None, N/A, N/A,None,None,None,None,None
+Qatar can afford many more $8 billion handouts,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+ Nationals employed in the public sector have been awarded pay raises of 50 to 120 percent,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+ The risk of inflation is limited,Economy/Money/Finance/Trade/GDP, Implicit, Positive,None,None,None,None,None
+" And unlike many of its Middle-Eastern neighbors, Qatar is rich enough to maintain its so-called social contract",Economy/Money/Finance/Trade/GDP, Implicit, Positive,None,None,None,None,None
+The emirate is under no pressure to spend its riyals,None, Explicit, Neutral,None,None,None,None,None
+ Qatar has been spared the unrest brought elsewhere by the Arab Spring and demands for political reform are timid,None, N/A, N/A,None,None,None,None,None
+" The closest Qatar has come to a protest movement in recent months has been a modest, one-hour boycott of Qatar Telecom organized on social-media website Twitter",None, Explicit, Positive,None,None,None,None,None
+"
+Qatar didnt give an official reason for the decision to bump wages",None, N/A, N/A,None,None,None,None,None
+" It may be a reward for the role played by the military in operations in Libya, or simply as a way of cheering the population as it celebrates the Muslim holiday of Eid",None, Implicit, Neutral,None,None,None,None,None
+ It may even be just a show of bravado,None, N/A, N/A,None,None,None,None,None
+"Whatever the reason, Qatars move isnt raising the worries typically fuelled by such announcements",None, N/A, N/A,None,None,None,None,None
+ The benefits will be widely felt among Qataris  only 10 percent of whom work in the private sector,None, Implicit, Positive,None,None,None,None,None
+ But Qataris account only for a fifth of the total population,None, None, None,None,None,None,None,None
+" So inflation, now a reasonable 1",None, None, None,None,None,None,None,None
+"8 percent, should remain subdued",None, Explicit, Neutral,None,None,None,None,None
+Handouts may theoretically undermine the development of the private sector,Economy/Money/Finance/Trade/GDP, Implicit, Negative,None,None,None,None,None
+ But any incentive Qatar has to develop one stems from prestige rather than necessity,None, Explicit, Neutral,None,None,None,None,None
+ The emirate has the lowest rate of unemployment of the six-nation Gulf Co-operation Council  by some estimates it is as low as 0,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+5 percent,None, N/A, N/A,None,None,None,None,None
+" The countrys GDP per a capita for 2011 is forecast at $109,881  around five times that of Saudi Arabia, according to the International Monetary Fund",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+ And wealth is fairly evenly spread among the citizens,None, Explicit, N/A,None,None,None,None,None
+"Notwithstanding huge infrastructure projects in the pipeline, Qatar was expected to generate double-digit GDP growth and a budget surplus of 10",Economy/Money/Finance/Trade/GDP, Implicit, Positive,None,None,None,None,None
+"3 percent in 2011/12 before the additional spending measures were announced, according to HSBC",None, N/A, N/A,None,None,None,None,None
+ Export revenues from energy alone are expected to total $80 billion,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+ No wonder the emirate can afford the occasional splurge,None, N/A, N/A,None,None,None,None,None
+"
+Context newsQatar on Sept",Violence/Conflict/Protest, Explicit, Negative,None,None,None,None,None
+" 6 announced salary, pension and benefits increases for its state and military employees costing as much as 30 billion riyals ($8",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+24 billion),None, N/A, N/A,None,None,None,None,None
+Basic salaries and social benefits for state civilian employees will rise by 60 percent,None, Explicit, Positive,None,None,None,None,None
+" Military staff of officer rank will receive a 120 percent increase in basic salaries and benefits, with other ranks getting a 50 percent rise",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+The total salary increases will amount to 10 billion riyals ($2,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"75 billion) per year, the statement said, without giving a reason for the rises",None, N/A, N/A,None,None,None,None,None
+The decree also ordered a 60 percent pension increase for civilian retirees,None, Explicit, Positive,None,None,None,None,None
+" Military retirees of officer rank will see a 120 percent hike, with ranks eligible for a 50 percent hike",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+The Gulf state will make a one time payment of 10 billion riyals towards its pension fund and another 10 billion for retirees subscriptions,Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"
+",None, Implicit, Positive,None,None,None,None,None
+"If three decadesof violent repression and despotic rule were kindling for the Egyptian revolution, social media was both a spark and an accelerant for the movement",Change/ Reform/Revolution, Explicit, Positive, Violent Repression,None,None,None,None
+"
+Did social media like Facebook and Twitter cause the revolution? No",Change/ Reform/Revolution, Explicit, Negative, Revolution,None,None,None,None
+" But these tools did speed up the process by helping to organize the revolutionaries, transmit their message to the world and galvanize international support",Unity/Cooperation/Alliance, Explicit, Positive, Organize,None,None,None,None
+"
+""In the same way that pamphlets didnt cause the American Revolution, social media didnt cause the Egyptian revolution,"" said Sascha Meinrath, director of the New America Foundations Open Technology Initiative",Change/ Reform/Revolution, Implicit, Positive, American Revolution,None,None,None,None
+" ""Social media have become the pamphlets of the 21st century, a way that people who are frustrated with the status quo can organize themselves and coordinate protest, and in the case of Egypt, revolution",Change/ Reform/Revolution, Explicit, Positive, Shut Down,None,None,None,None
+"""
+It is a truism in political science that successful revolutions are born in the streets -- from the Boston Massacre of March 1770 and the storming of the Bastille in Paris in July 1789, to the streets of Cairo in January and February 2011",Change/ Reform/Revolution, Explicit, Positive, Revolution,None,None,None,None
+ What has shocked most observers of the current Egyptian scene is the sheer speed with which the regime fell -- 18 days,Change/ Reform/Revolution, Explicit, Positive, Speed,None,None,None,None
+"
+And thats where modern communications technology has had the most potent impact",Change/ Reform/Revolution, Implicit, Positive, Communications Technology,None,None,None,None
+"
+Rafat Ali, a social media expert and founder of PaidContent, said Facebook and Twitter played different roles in the uprising",Unity/Cooperation/Alliance, Implicit, Positive, Uprising,None,None,None,None
+" Facebook helped to organize the activists inside the country, he said, while Twitter functioned to help get the message out to the broader world",Unity/Cooperation/Alliance, Explicit, Positive, Facebook,None,None,None,None
+"
+""Facebook definitely had a role in organizing this revolution,"" Ali told Wired",Change/ Reform/Revolution, Explicit, Positive, Revolution,None,None,None,None
+com,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+" ""It acts like an accelerant to conditions which already exist in the country",Change/ Reform/Revolution, Implicit, Positive, Accelerant,None,None,None,None
+ Twitter and YouTube serve as amplification for whats happening on the ground,Change/ Reform/Revolution, Implicit, Positive, Twitter,None,None,None,None
+ And they directly affect Western media coverage,Change/ Reform/Revolution, Implicit, Positive, Shut Down,None,None,None,None
+"""
+""One of the things that social media does is transmission of hope across these countries,"" Ali added, referring to Tunisia, Egypt and other repressed countries in the Middle East",Unity/Cooperation/Alliance, Implicit, Positive, Social Media,None,None,None,None
+"
+Ali said the regimes in Tunisia and Egypt had underestimated the power of technology to organize activists and drive the movement",Change/ Reform/Revolution, Explicit, Positive, Technology,None,None,None,None
+"
+""These despots are five generations older than the youth,"" Ali said",Change/ Reform/Revolution, Implicit, Negative, Despots,None,None,None,None
+" ""None of these people in their 60s, 70s, and 80s have ever used Facebook or Twitter",Unity/Cooperation/Alliance, Implicit, Positive, Facebook,None,None,None,None
+"""
+Lawrence Pintak, author ofThe New Arab Journalist, pointed out on CNN that despite the speed with which the Mubarak regime fell, bloggers and digital activists have been working toward reform under violent repression in the Middle East for years",Change/ Reform/Revolution, Explicit, Positive, Reform,None,None,None,None
+" ""This is a digital revolution that has been happening for quite a while,"" Pintak said",Change/ Reform/Revolution, Explicit, Positive, Digital Revolution,None,None,None,None
+"
+CNN host Anderson Cooper earlier asked former CIA director James Woolsey whether the U",Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+S,Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+ intelligence community has fully grasped the power of social media in catalyzing pro-democracy movements worldwide,Change/ Reform/Revolution, Implicit, Positive, Social Media,None,None,None,None
+"
+""I think theyre starting to,"" Woolsey replied",Unity/Cooperation/Alliance, Implicit, Positive, Starting,None,None,None,None
+" ""I know people who for years now have been trying to get them to help get the right types of equipment and software into places like Iran in order to take advantage of peoples desire for freedom",Change/ Reform/Revolution, Explicit, Positive, Equipment,None,None,None,None
+"""
+",Unity/Cooperation/Alliance, Explicit, Positive, Shut Down,None,None,None,None
+"Last update: 4 February 2011The Internet and communications infrastructure is a key platform to conduct business, connect people and provide government services",None, Implicit, Positive, Internet,None,None,None,None
+ The Egyptian government has taken great steps in the past years to develop and promote the use and uptake of technologies,None, Implicit, Positive, Technologies,None,None,None,None
+ But the current shutdown of Internet and communications services for five days will have a pronounced economic impact,Violence/Conflict/Protest, Explicit, Negative, Economic Impact,None,None,None,None
+ It is estimated to have incurred direct costs of at minimum USD 90 million,None, Explicit, Positive, Shut Down,None,None,None,None
+"Last update: 4 February 2011The Internet and communications infrastructure is a key platform to conduct business, connect people and provide government services",None, Implicit, Positive,None,None,None,None,None
+ The Egyptian government has taken great steps in the past years to develop and promote the use and uptake of technologies,None, Explicit, Positive,None,None,None,None,None
+ But the current shutdown of Internet and communications services for five days will have a pronounced economic impact,Violence/Conflict/Protest, Explicit, Negative,None,None,None,None,None
+ It is estimated to have incurred direct costs of at minimum USD 90 million,None, Explicit, Positive,None,None,None,None,None
+"This amount refers to lost revenues due to blocked telecommunications and Internet services, which account for around USD 18 million per day, or, on a yearly scale, for roughly 3-4% of GDP",Economy/Money/Finance/Trade/GDP, Explicit, Negative,None,None,None,None,None
+"
+Wider economic impacts
+However, this amount does not include the secondary economic impacts which resulted from a loss of business in other sectors affected by the shutdown of communication servicese",Economy/Money/Finance/Trade/GDP, Implicit, Negative,None,None,None,None,None
+g,None, The line does not match any code.,None,None,None,None,None,None
+"e-commerce, tourism and call centres",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+" In fact, the IT services and outsourcing sector in Egypt has been a growing part of the economy and relies heavily on the Internet and communications networks",None, Explicit, Positive,None,None,None,None,None
+" IT outsourcing firms in Egypt made USD 1 billion in revenues in 2010 (or around USD 3 million per working day), servicing overseas customers through call centres, helpdesks, etc",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"
+The longer term impact of the Internet and communications shutdown on Egypts economy is hard to assess",Economy/Money/Finance/Trade/GDP, Explicit, Negative,None,None,None,None,None
+ The shutdown may impact negatively on foreign direct investment in the ICT sector and industries that rely on stable communications and the Internet,Violence/Conflict/Protest, Explicit, Negative,None,None,None,None,None
+ The loss of connectivity for five days to these vital business services could make them reconsider overall outsourcing plans,Economy/Money/Finance/Trade/GDP, Explicit, Negative,None,None,None,None,None
+Attracting such firms has been a key strategy of the Egyptian government (see Chapter 7 of theOECD Information Technology Ooutlook 2010),Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"
+Egypt has other sectors that depend on Internet and communications, notably a vibrant tourism sector",None,None,None,None,None,None,None,None
+" It is difficult to put a number to the loss of tourism due to the Internet shutdown alone, but it provides an idea of how much the Internet has become part of mainstream economic activities, even in Egypt",Economy/Money/Finance/Trade/GDP, Explicit, Negative,None,None,None,None,None
+" In regards to long-term effects, it may be extremely difficult to unravelthe impact of the general political and social conditions from the shutdown of the Internet and mobile networks",None, Explicit, Positive,None,None,None,None,None
+"
+At the time of writing, the OECD is engaged in a country review of ICT policies that had put Egypt on a path of developing towards an information economy",None, Explicit, Positive,None,None,None,None,None
+" Egypt is a signatory country to theOECDs 2008 Seoul Declaration for the Future of the Internet, which calls for an open, decentralised and dynamic Internet ( click here to open the Declaration )",Economy/Money/Finance/Trade/GDP, Explicit, Positive,None,None,None,None,None
+"
+Contact:
+and Arthur Mickoleit
+Telecommunication data for Egypt
+Population: 83 million (2009)Mobile phones:55352 233 subscriptions (2009)66",None,None,None,None,None,None,None,None
+7 subscribers per 100 inhabitantsInternetFixed (wired) broadband Internet subscriptions:1 101 635 subscriptions (2009)1,None, Explicit, Positive,None,None,None,None,None
+3 subscriptions per 100 inhabitantsInternet dial-up subscriptions:1 222 815 subscriptions (2009)1,Violence/Conflict/Protest, Explicit, Negative,None,None,None,None,None
+5 subscribers per 100 inhabitantsWireless broadband:6 934 161 subscriptions (2009)8,Change/ Reform/Revolution, Explicit, Positive,None,None,None,None,None
+"4 subscribers per 100 inhabitantsFurther information
+OECD Information Technology Outlook 2010
+(pdf)
+Related Documents
+",Unity/Cooperation/Alliance, Explicit, Positive,None,None,None,None,None
