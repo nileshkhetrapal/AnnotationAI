@@ -12,12 +12,6 @@
 #   3:Violence/Conflict/Protest
 #   4:Unity/Cooperation/Alliance
 #   5:Change/ Reform/Revolution
-#   6:Democracy/Politics/Parliament
-#   7:Human Rights/Law/Justice
-#   8:Religion/Religious
-#   9:Social Issues/Social Justice
-#   10:Health/Environment
-#   11:Education/Science/Technology
 #Explicit or Implicit
 #Positive or Negative
 #Example: 3, Explicit, Negative
@@ -31,6 +25,8 @@ import openai
 import csv
 import time
 import sys
+import argparse
+import datetime
 
 def get_article_info(url):
     # This function will get the article from the link and return a dictionary with the information
@@ -43,15 +39,21 @@ def get_article_info(url):
 
     hurl = '"' + url + '"' # Add quotes to the url
 
-    nj = "{}.json".format(url) # The name of the json file
+    #Get the name of the article from the url
+    aName = url.split("/")[-1]
+    #Remove the .html and everything else from the name
+    aName = aName.split(".")[0]
+
+    nj = "{}.json".format(aName) # The name of the json file
 
     # Use the extrablatt program to get the information from the command line
     try:
+     print("extrablatt article {} -o {}".format(hurl, nj))
      print(os.system("extrablatt article {} -o {}".format(hurl, nj)))
     except:
         print("Error")
     # Read the json file
-    with open("article.json", "r", encoding="utf-8") as json_file:
+    with open(nj, "r", encoding="utf-8") as json_file:
         data = json.load(json_file)
 
         # Get the information from the json file
@@ -94,6 +96,12 @@ def get_article_info(url):
 def get_sentences(info):
     #Get the sentences from the text, split by periods
     sentences = info["text"].split(".")
+    #Remove the last sentence if it is empty
+    if sentences[-1] == "":
+        sentences.pop()
+    #Remove newlines from the sentences
+    for i in range(len(sentences)):
+        sentences[i] = sentences[i].replace("\n", " ")
     return sentences
 
 def get_paragraphs(info):
@@ -105,7 +113,8 @@ def get_codes(sentences):
     #Use the GPT api to get the codes for the sentences
     #The codes will be stored in a dictionary along with the sentence
     #The dictionary will be returned
-    openai.api_key = "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"
+    #Insert your own key bruh
+    openai.api_key = "sk-"
     codes = {}
     
 
@@ -114,7 +123,7 @@ def get_codes(sentences):
         #Build the prompt
         #Print the sentence
         print("Sentence: {}".format(sentence))
-        prompt="(The Code for the line:\nExample: Result: 3, Explicit, Negative, KeyWords: Economic Impact, Violence\nExample: Result: 1, Implicit, Positive, Keywords: Shut Down, Critical Access\n   1:Economy/Money/Finance/Trade/GDP\n   2:Trust/Stability/Security/Peace\n   3:Violence/Conflict/Protest\n   4:Unity/Cooperation/Alliance\n   5:Change/ Reform/Revolution \n Explicit or Implicit\nPositive or Negative)\n\n{}\nThe keywords should also be extracted\nResult:"
+        prompt="(The Code for the line:\nExample: Result: 3, Explicit, Negative, KeyWords: Economic Impact, Violence\nExample: Result: 1, Implicit, Positive, Keywords: Shut Down, Critical Error\n   1:Economy/Money/Finance/Trade/GDP\n   2:Trust/Stability/Security/Peace\n   3:Violence/Conflict/Protest\n   4:Unity/Cooperation/Alliance\n   5:Change/ Reform/Revolution \n Explicit or Implicit\nPositive or Negative)\n\n{}\nThe keywords should also be extracted\nResult:"
         #Remove the {} from the prompt and replace it with the sentence
         prompt = prompt.format(sentence)
         try:
@@ -141,39 +150,81 @@ def create_csv(info, sentences, codes):
     #The csv file will have the following columns:
     #Website, Title, Date, Author, Sentence, Code
     #The csv file will be stored in the same directory as the python file
- filename = info["title"] + ".csv"
  #Take the codes and get the implicit/ explicit and positive/negative and keywords
- IE = []
- PN = []
- KW = []
-
+ #Create a variable with the current date and time
+ now = datetime.datetime.now()
+ try:
+  shortName = info["title"].split(" ")[0]  #Get the first word of the title
+  filename = "{}{}.csv".format(now ,shortName).strip().replace(" ", "_").replace(":", "_") #Create the filename
+ except:
+    filename="{}.csv".format(now).strip().replace(" ", "_").replace(":", "_")
  with open(filename, 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',')
     writer.writerow(["Website", "Title", "Date", "Author", "Sentence", "Code", "Implicit/Explicit" ,"Intent", "Keywords"])
     for sentence in sentences:
         #Get the code
         code = codes[sentence]
-        #Get the implicit/ explicit
-        IE.append(code.split(",")[1])
-        #Get the positive/ negative
-        PN.append(code.split(",")[2])
-        #Get the keywords
-        KW.append(code.split(",")[3])
         #Fix any encoding issues
         sentence = sentence.encode("utf-8", "ignore").decode()
-        writer.writerow([info["website"], info["title"], info["date"], info["author"], sentence, codes[sentence]])
+        writer.writerow([info["website"], info["title"], info["date"], info["author"], sentence.encode('utf-8'), codes[sentence]])
+
 
 
 def main():
- #The link is the first argument passed to the program
- link = sys.argv[1]
- result = get_article_info(link)
- sentences = get_sentences(result)
- paragraphs = get_paragraphs(result)
- #Print all the sentences
- output = get_codes(sentences)
- print(output)
- create_csv(result, sentences, output)
+ #The input can be a link to an article or a text file with a list of links
+ parser = argparse.ArgumentParser(
+    description="Get the codes for the sentences in an article",
+    formatter_class=argparse.RawTextHelpFormatter
+ )
+ parser.add_argument(
+    "-i","--singleinput", help="The link to the article")
+ parser.add_argument(
+    "-f","--fileinput", help="The file with the links to the articles")
+ args = parser.parse_args()
+
+ if args.fileinput:
+        #The file is the second argument passed to the program
+    file = args.fileinput
+    print(file)
+    try:
+        #Open the file and get the links
+        with open(file, "r") as f:
+            links = f.readlines()
+        #Remove the newlines from the links
+        links = [x.strip() for x in links]
+        print(links)
+    except:
+        print("Error opening the file")
+        #Remove the newlines from the links
+    links = [x.strip() for x in links]
+        #Get the information for each link
+    for link in links:
+        print(link)
+        try:
+            result = get_article_info(link)
+        except:
+            print("Error getting the information for {}".format(link))
+        try:
+            sentences = get_sentences(result)
+        except:
+            print("Error getting the sentences for {}".format(link))    
+            #Print all the sentences
+        try:
+            output = get_codes(sentences)
+            #output = get_paragraphs(result)
+        except:
+            print("Error getting the codes for {}".format(link))
+        print(output)
+        create_csv(result, sentences, output)
+    
+ elif args.singleinput:
+  link = args.singleinput   
+  result = get_article_info(link)
+  sentences = get_sentences(result)
+  #Print all the sentences
+  #output = get_codes(sentences)
+  print(output)
+  create_csv(result, sentences, output)
  
  #print(result)
 
